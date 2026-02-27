@@ -6,9 +6,8 @@ var Database = {
 
 function loadDataSource() {
 
-
-
-	displayData();
+	
+	displayData( Database.data );
 }
 
 
